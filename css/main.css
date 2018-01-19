@@ -90,9 +90,12 @@ table{
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: courier;
+    font-size: 17px;
+    font-weight: normal;
 }
 #a2 li a:hover {
-    background-color:yellow;
+    background-color:antiquewhite;
     color: black;
 }
 
@@ -100,7 +103,26 @@ table{
 #c{
     background:url('../img/showcase.jpg') no-repeat 0 -400px;
     width:100%;
-    height:600px;
+    height:1500px;
+}
+#c1{
+    width:30%;
+    height:700px;
+    float: left;
+}
+#c2{
+    width:70%;
+    height:700px;
+    float: right;
+    margin-top: 40px;
+}
+
+#c11{
+    color: white;
+    font-size: 60px;
+    font-family: courier;
+    font-weight: bolder;
+    
 }
 
 
